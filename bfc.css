@@ -1,0 +1,23 @@
+.container {
+  border: 1px solid red;
+}
+
+.cube {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  margin: 100px;
+}
+
+.floatDiv {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+}
+
+.div {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
